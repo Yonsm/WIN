@@ -3,13 +3,13 @@
 <BCState>
 	<TBcState>
 		<FirstStartup Value="False"/>
-		<FormPosStr Value="196;196;2644;1664;3;192"/>
+		<FormPosStr Value="76;76;2524;1555;3;144"/>
 	</TBcState>
 	<TCheckForUpdatesState>
 		<Build Value="18981"/>
-		<CheckID Value="8796093022208"/>
-		<FormPosStr Value="937;511;1943;1216;;192"/>
-		<LastChecked Value="2014-10-20 16:46:32"/>
+		<CheckID Value="8930484217605"/>
+		<FormPosStr Value="909;542;1690;1089;;144"/>
+		<LastChecked Value="2019-09-18 10:35:23"/>
 	</TCheckForUpdatesState>
 	<TDirCompareState>
 		<LeftMRUSpecs>

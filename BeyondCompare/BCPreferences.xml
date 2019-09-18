@@ -5,16 +5,13 @@
 		<CheckForUpdatesDayAmt Value="0"/>
 		<TabsConfirmClose Value="False"/>
 	</TBcPrefs>
-	<TDirPrefs>
-	</TDirPrefs>
+	<TDirPrefs/>
 	<TOpPrefs>
 		<ConfirmCopy Value="False"/>
 		<ConfirmMove Value="False"/>
 		<IncludeFiltered Value="True"/>
 	</TOpPrefs>
 	<TSccPrefs>
-		<Associations>
-
-		</Associations>
+		<Associations/>
 	</TSccPrefs>
 </BCPreferences>
