@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------
-Beyond Compare 3
+Beyond Compare 4
 by Scooter Software                                    www.scootersoftware.com
 ------------------------------------------------------------------------------
 
@@ -12,11 +12,7 @@ Beyond Compare是一个Windows平台上的文件和文件夹比较工具。使�
 2. 系统要求
 -----------
 该程序运行于：
-- Windows 95 OSR 2及HTML Help
-- Windows 98，Windows 98 SE，Windows ME
-- Windows NT 4.0 SP4或之后版本
-- Windows 2000
-- Windows XP，Windows XP x64
+- Windows XP
 - Windows Server 2003，Windows Server 2003 x64
 - Windows Vista，Windows Vista x64
 - Windows Server 2008，Windows Server 2008 x64
@@ -24,8 +20,14 @@ Beyond Compare是一个Windows平台上的文件和文件夹比较工具。使�
 - Windows Server 2008 R2
 - Windows 8，Windows 8 x64
 - Windows Server 2012
+- Windows Server 2012 R2
+- Windows 10，Windows 10 x64
+- Windows Server 2016
+- Windows Server 2019
+- Windows Server 2022
+- Windows 11
 
-我们的网站上也有Linux版本的程序。
+我们的网站上也有Mac和Linux版本的程序。
 
 
 3. 评估模式
@@ -33,7 +35,7 @@ Beyond Compare是一个Windows平台上的文件和文件夹比较工具。使�
 你可以免费的评估Beyond Compare 30天（实际使用时间）。30天之后该程序需要一个许可证密钥才能继续工作。
 
 有关购买或升级许可证的信息，请访问：
-    http://www.scootersoftware.com/buynow
+    https://www.scootersoftware.com/buynow
 
 
 4. 联系人信息
@@ -42,4 +44,4 @@ Beyond Compare是一个Windows平台上的文件和文件夹比较工具。使�
 复制并粘贴设置信息到你的email中帮助我们追查到问题。
 
     Email:  support@scootersoftware.com 或 sales@scootersoftware.com
-    网站:   http://www.scootersoftware.com/
+    网站:   https://www.scootersoftware.com/
