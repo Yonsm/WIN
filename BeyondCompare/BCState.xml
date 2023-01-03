@@ -4,6 +4,7 @@
 	<TBcState>
 		<FirstStartup Value="False"/>
 		<FormPositions>
+			<TDirCompareSessionDialog Value="1117;510;1955;1350;;144"/>
 			<TViewFrame Value="38;38;2649;1619;3;144"/>
 		</FormPositions>
 	</TBcState>
@@ -16,4 +17,17 @@
 		<MsgDaysDate Value="2023-01-03 00:00:00"/>
 		<MsgTitle Value="LOG4J"/>
 	</TCheckForUpdatesState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\WinX\CrystalDisk\DiskInfo.ini"/>
+			<_1 Value="D:\WinX\CrystalDisk\DiskMark64.ini"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="C:\WinX\CrystalDisk\DiskInfo.ini"/>
+			<_1 Value="C:\WinX\CrystalDisk\DiskMark64.ini"/>
+		</RightMRUSpecs>
+	</TTextCompareState>
 </BCState>
