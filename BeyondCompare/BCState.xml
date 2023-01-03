@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TViewFrame Value="38;38;2649;1619;3;144"/>
+		</FormPositions>
+	</TBcState>
+	<TCheckForUpdatesState>
+		<Build Value="27058"/>
+		<LastChecked Value="2023-01-03 10:46:15"/>
+		<MsgBody Value="Beyond Compare is not affected by the Log4J vulnerability. Our IT systems are also secured against it."/>
+		<MsgDate Value="2023-01-03 00:00:00"/>
+		<MsgDays Value="10"/>
+		<MsgDaysDate Value="2023-01-03 00:00:00"/>
+		<MsgTitle Value="LOG4J"/>
+	</TCheckForUpdatesState>
+</BCState>
